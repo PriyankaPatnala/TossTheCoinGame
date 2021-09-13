@@ -1,0 +1,37 @@
+.container {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 2em;
+    margin: 2em;
+    background-color: #57e5f6;
+}
+button {
+    padding: 5px 15px;
+    border-radius:0.4em;  
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+}
+h1, h3, h4 {
+    margin: 0;
+    padding: 0.25em;
+}
+#tossval {
+    border: 5px solid yellow;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #f1ac45;
+    color: #fff;
+    padding: 25px 15px;
+    margin: 10px;
+}
+.toss {
+    background-color: #1794ef;
+    border-color: #1794ef;
+    color: #FFF;
+} 
+.reset {
+    background-color: #fff;
+    border-color:#ccc;
+    color: #1794ef;
+}
